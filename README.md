@@ -1,7 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://github.com/sanjay-senthilkumar01/sanjay-senthilkumar01/assets/125595456/f5c8e49e-348b-4f5f-a792-c8ea8918b6ef" alt="Sanjay Senthilkumar" width="102" height="120">
-</p>
 
 
 
