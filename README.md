@@ -2,9 +2,6 @@
 🔭 I’m currently working on Neural Inverse<br><br>🌱 I’m currently learning TensorFlow Functional API, Java Spring, Python Django, APIs (REST API, GraphQL), System Design, Microservice Architecture, Azure, NLP models, Web Apps development, AI development, and Platform development.<br><br>👯 I’m looking to collaborate on Neural Inverse AI development<br><br>👨‍💻 All of my projects are available at https://sanjaysenthilkumar.me/<br><br>📝 I regularly write articles on https://sanjaysenthilkumar.me/blog-QAbot/<br><br>💬 Ask me about TensorFlow Functional API, Java Spring, Python Django, APIs (REST API, GraphQL), System Design, Microservice Architecture, Azure, NLP models, Web Apps development, AI development, and Platform development.<br><br>📫 How to reach me sanjaysenthilkumar0123@gmail.com,info@neuralinverse.live
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sanjay_senthilkumar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjay-senthilkumar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjaysenthilkumar01) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22782544/sanjay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sanja_y05)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanjay-senthilkumar01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanjay-senthilkumar01&theme=dark&hide_border=false)<br/>
@@ -20,12 +17,17 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanjay-senthilkumar01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sanjay-senthilkumar01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sanjay_senthilkumar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjay-senthilkumar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjaysenthilkumar01) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22782544/sanjay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sanja_y05)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjay-senthilkumar01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanjay-senthilkumar01&icon=0&color=9)](https://visitcount.itsvg.in)
