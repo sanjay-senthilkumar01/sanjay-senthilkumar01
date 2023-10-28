@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-senthilkumar01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sanjay-Senthilkumar?theme=dark&font=Noto%20Sans%20Tagalog&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sanjay-Senthilkumar?theme=unicorn&font=Noto%20Sans%20Tagalog&ext=activity)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💻 Tech Stack:
